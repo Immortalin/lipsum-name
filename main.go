@@ -2,9 +2,12 @@ package main
 
 import (
 	"fmt"
-	"github.com/atotto/clipboard"
-	"gopkg.in/urfave/cli.v1"
-	"github.com/drhodes/golorem"
+	// "github.com/atotto/clipboard"
+	"github.com/Immortalin/clipboard"
+	// "gopkg.in/urfave/cli.v1"
+	"github.com/Immortalin/cli"
+	// "github.com/drhodes/golorem"
+	"github.com/Immortalin/golorem"
 	"os"
 )
 
